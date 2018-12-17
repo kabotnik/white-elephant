@@ -1,5 +1,5 @@
 # white-elephant
-Give it a list of players and players from the list
+Give it a list of players and it will select the next player until all have had a turn.
 
 ## Building
 
